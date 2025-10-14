@@ -1,0 +1,3 @@
+# Files na naglalaman ng sekreto at malalaking folders
+.env
+node_modules/
