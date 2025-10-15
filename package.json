@@ -5,6 +5,7 @@
     "express": "^5.1.0",
     "mongodb": "4.0",
     "mongoose": "^8.19.1",
-    "nodemailer": "^7.0.9"
+    "nodemailer": "^7.0.9",
+    "nodemailer-sendgrid": "^1.0.3"
   }
 }
